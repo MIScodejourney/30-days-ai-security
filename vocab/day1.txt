@@ -1,0 +1,43 @@
+DDoS (Distributed Denial of Service) – حمله منع سرویس توزیع‌شده
+
+Network-layer attacks – حملات لایه شبکه
+
+Multi-vector attack – حمله چندجهته
+
+SYN flood – حمله SYN Flood
+
+Amplification attack – حمله تقویتی
+
+Packet-intensive attack – حمله مبتنی بر تعداد بسته
+
+Bit-intensive attack – حمله مبتنی بر حجم داده
+
+Request-intensive attack – حمله مبتنی بر تعداد درخواست
+
+Botnet – شبکه دستگاه‌های آلوده کنترل‌شده
+
+Malware-infected device – دستگاه آلوده به بدافزار
+
+Infected hosts – میزبان‌های آلوده
+
+Mirai – بدافزار معروف در بات‌نت‌ها
+
+Cloudflare – ارائه‌دهنده خدمات شبکه و امنیت
+
+Magic Transit – سرویس Cloudflare برای محافظت از زیرساخت اینترنت
+
+Autonomous defense systems – سیستم‌های دفاع خودکار
+
+rps (requests per second) – تعداد درخواست در ثانیه
+
+Mrps (million requests per second) – میلیون درخواست در ثانیه
+
+Bpps (billion packets per second) – میلیارد بسته در ثانیه
+
+Tbps (Terabits per second) – ترابیت در ثانیه
+
+Hyper-volumetric attacks – حملات حجمی بسیار بالا
+
+Spike / surge in attacks – افزایش ناگهانی حملات
+
+Mitigation / mitigate – دفع یا خنثی‌سازی حملات
