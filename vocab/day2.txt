@@ -1,0 +1,77 @@
+Attack vector
+روش یا مسیر انجام حمله (مثلاً HTTP، DNS، UDP).
+
+HTTP flood
+ارسال حجم زیادی درخواست HTTP برای از کار انداختن سرور.
+
+UDP flood
+سیل بسته های udp برای مصرف شبکه 
+
+Hyper-scale
+مقیاس بسیار بزرگ (معمولاً در سطح اینترنت جهانی).
+
+Autonomous DDoS defense
+سیستم دفاعی خودکار بدون دخالت انسان.
+
+Detected
+شناسایی‌شده.
+
+Adapt
+تطبیق دادن سیستم دفاعی با الگوی حمله.
+
+Lock on
+شناسایی دقیق و تمرکز روی منبع حمله.
+
+Infrastructure
+زیرساخت (شبکه، سرورها، دیتاسنتر).
+
+Critical infrastructure
+زیرساخت حیاتی (مثل مخابرات، اینترنت، بانک).
+
+Service Providers / Carriers / Telcos
+ارائه‌دهندگان خدمات اینترنت و مخابرات.
+
+Cloud Computing Platforms
+پلتفرم‌های رایانش ابری (AWS، Azure، GCP و…).
+
+Cloud Infrastructure Providers
+شرکت‌های ارائه‌دهنده زیرساخت ابری.
+
+ASN (Autonomous System Number)
+شناسه شبکه‌های بزرگ در اینترنت.
+
+Telecommunications
+مخابرات.
+
+Business Services
+خدمات تجاری.
+
+Computer Software
+نرم‌افزارهای کامپیوتری.
+
+Attack source networks
+شبکه‌هایی که حملات از آن‌ها نشأت می‌گیرد.
+
+Global distribution
+توزیع جهانی.
+
+Threat actors
+مهاجمان / بازیگران تهدید.
+
+Telemetry
+داده‌های جمع‌آوری‌شده از شبکه.
+
+Vantage point
+نقطه دید منحصربه‌فرد (مزیت دید شبکه‌ای).
+
+Unmetered DDoS protection
+محافظت بدون محدودیت حجم حمله.
+
+Zero Trust
+مدل امنیتی که هیچ چیز به‌صورت پیش‌فرض قابل اعتماد نیست.
+
+Scrubbing center
+مرکز پاک‌سازی ترافیک مخرب.
+
+On-premise appliances
+تجهیزات امنیتی محلی داخل سازمان.
