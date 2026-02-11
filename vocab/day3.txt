@@ -1,0 +1,98 @@
+Global upload performance
+عملکرد آپلود جهانی
+
+Local Uploads
+آپلود محلی (ذخیره اولیه نزدیک کاربر قبل از انتقال نهایی)
+
+Open Beta
+نسخه آزمایشی عمومی
+
+Object Storage
+ذخیره‌سازی شیءمحور (مثل S3 و R2)
+
+Bucket
+باکت / مخزن ذخیره فایل‌ها
+
+Object
+آبجکت / فایل ذخیره‌شده در باکت
+
+Time to Last Byte (TTLB)
+زمان دریافت آخرین بایت (مدت زمان کامل شدن پاسخ سرور)
+
+Request Duration
+مدت زمان پردازش یک درخواست
+
+Latency
+تأخیر شبکه
+
+Cross-region
+بین دو منطقه جغرافیایی متفاوت
+
+Synthetic Benchmark
+آزمایش شبیه‌سازی‌شده برای اندازه‌گیری عملکرد
+
+Workload
+بار کاری (میزان درخواست‌ها یا پردازش‌ها)
+
+R2 Gateway Worker
+ورودی اصلی درخواست‌ها در R2 (مدیریت احراز هویت و مسیریابی)
+
+Authentication
+احراز هویت
+
+Routing Logic
+منطق مسیریابی درخواست‌ها
+
+Durable Object
+آبجکت پایدار (مکانیزم ذخیره‌سازی state در Cloudflare)
+
+Metadata
+فراداده (اطلاعات مربوط به فایل مثل نام، کلید، checksum)
+
+Checksum
+کد بررسی صحت داده
+
+Distributed System
+سیستم توزیع‌شده
+
+Distributed Storage Infrastructure
+زیرساخت ذخیره‌سازی توزیع‌شده
+
+Encrypted Data
+داده رمزنگاری‌شده
+
+Replication
+تکثیر داده بین مناطق مختلف
+
+Streaming
+ارسال تدریجی داده به صورت جریان
+
+PutObject
+درخواست آپلود یک فایل کامل
+
+Location Hint
+راهنمای محل جغرافیایی باکت
+
+Strong Consistency
+یکپارچگی قوی (بعد از نوشتن، بلافاصله قابل خواندن است)
+
+Immediately Accessible
+بلافاصله قابل دسترسی
+
+Committed
+ثبت و نهایی‌شده
+
+Cloudflare Global Network
+شبکه جهانی کلودفلر
+
+Cache
+حافظه کش (ذخیره موقت برای دسترسی سریع‌تر)
+
+Egress Fees
+هزینه خروج داده
+
+Jurisdiction Restriction
+محدودیت قضایی (محدودیت منطقه‌ای نگهداری داده)
+
+FedRAMP
+استاندارد امنیتی دولت آمریکا برای سرویس‌های ابری
